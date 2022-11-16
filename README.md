@@ -1,5 +1,3 @@
-# React
-
 ### Source:
 
 [Getting Started - React](https://reactjs.org/docs/getting-started.html)
