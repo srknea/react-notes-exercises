@@ -1,3 +1,7 @@
+Source: [Tip: Reuse a Component](https://reactjs.org/docs/add-react-to-a-website.html#tip-reuse-a-component)
+
+---
+
 ```html
 <p>
   This is the first comment.
