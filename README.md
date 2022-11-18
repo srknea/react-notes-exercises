@@ -10,7 +10,9 @@
   <summary>Adding React</summary>
 
   [Add React to a Website](Adding%20React/README.md)
+
   [Reuse a Component](Adding%20React/README.md)
+  
   [Try React with JSX](Adding%20React/React%20with%20JSX/README.md)
   
 </details>
