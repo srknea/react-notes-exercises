@@ -11,8 +11,8 @@
 
   [Add React to a Website](Adding%20React/README.md)
 
-  [Reuse a Component](Adding%20React/README.md)
-  
+  [Reuse a Component](Adding%20React/Reuse%20a%20Component/README.md)
+
   [Try React with JSX](Adding%20React/React%20with%20JSX/README.md)
   
 </details>
