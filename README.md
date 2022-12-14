@@ -8,7 +8,7 @@
 
 <details>
   <summary>
-  #### Adding React
+  ## Adding React
   </summary>
 
   [Add React to a Website](Adding%20React/README.md)
