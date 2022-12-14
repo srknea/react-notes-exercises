@@ -1,9 +1,7 @@
-
-
 <details>
-  <summary>Adding React</summary>
+  <summary>Add React to a Website</summary>
 
-  [Add React to a Website](Adding%20React/README.md)
+  [Adding React](Adding%20React/README.md)
 
   [Reuse a Component](Adding%20React/Reuse%20a%20Component/README.md)
 
@@ -11,7 +9,7 @@
   
 </details>
 
-
+---
 
 ```jsx
 class ShoppingList extends React.Component {
