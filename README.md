@@ -44,12 +44,8 @@ props → properties (özellikler)
 
 ---
 
-<details>
-  <summary>Source</summary>
-  <br>
-  
-  [Getting Started - React](https://reactjs.org/docs/getting-started.html)
+### Source:
 
-  [Tutorial: Intro to React - React](https://reactjs.org/tutorial/tutorial.html)
-  
-</details>
+[Getting Started - React](https://reactjs.org/docs/getting-started.html)
+
+[Tutorial: Intro to React - React](https://reactjs.org/tutorial/tutorial.html)
