@@ -1,5 +1,6 @@
 <details>
   <summary>Add React to a Website</summary>
+  <br>
 
   [Adding React](Adding%20React/README.md)
 
@@ -43,8 +44,12 @@ props → properties (özellikler)
 
 ---
 
-### Source:
+<details>
+  <summary>Source</summary>
+  <br>
+  
+  [Getting Started - React](https://reactjs.org/docs/getting-started.html)
 
-[Getting Started - React](https://reactjs.org/docs/getting-started.html)
-
-[Tutorial: Intro to React - React](https://reactjs.org/tutorial/tutorial.html)
+  [Tutorial: Intro to React - React](https://reactjs.org/tutorial/tutorial.html)
+  
+</details>
