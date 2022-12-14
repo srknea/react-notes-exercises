@@ -1,10 +1,4 @@
-### Source:
 
-[Getting Started - React](https://reactjs.org/docs/getting-started.html)
-
-[Tutorial: Intro to React - React](https://reactjs.org/tutorial/tutorial.html)
-
----
 
 <details>
   <summary>Adding React</summary>
@@ -50,3 +44,9 @@ props → properties (özellikler)
 </aside>
 
 ---
+
+### Source:
+
+[Getting Started - React](https://reactjs.org/docs/getting-started.html)
+
+[Tutorial: Intro to React - React](https://reactjs.org/tutorial/tutorial.html)

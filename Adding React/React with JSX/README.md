@@ -1,7 +1,3 @@
-Source: [Optional: Try React with JSX](https://reactjs.org/docs/add-react-to-a-website.html#optional-try-react-with-jsx)
-
----
-
 React’e ne göstereceğini söylemek için bir JavaScript fonksiyon çağrısı kullanma:
 
 ```jsx
@@ -31,3 +27,7 @@ return (
 ```
 
 Bu iki kod parçacığı eşdeğerdir.  Fakat hem React’i hem de diğer kütüphaneleri kullanan birçok kişi, kullanıcı arayüzü kodu yazmak için JSX’i yararlı bulmaktadır.
+
+---
+
+Source: [Optional: Try React with JSX](https://reactjs.org/docs/add-react-to-a-website.html#optional-try-react-with-jsx)
